@@ -1,0 +1,57 @@
+[ah, 2c, 2s, 5h, 7h, 8s, 9s, 9c, th] 
+[ad, 2d, 3s, 3h, 4c, 6d, 7c, 9h, ks] 
+[ah, 2c, 2s, 5h, 7h, 8s, 9s, 9c, th, kh] 
+[ad, 2d, 3s, 3h, 4c, 6d, 7c, 9h, ks] 
+[ad, 2d, 3s, 3h, 4c, 5d, 6d, 7c, 9h, ks] 
+[ah, 2c, 2s, 5c, 7h, 8s, 9s, 9c, th, kh] 
+[2d, 3s, 3h, 4c, 5d, 6d, 7c, 9h, ks] 
+[2d, 3s, 3h, 4c, 5d, 6d, 7c, 9h, jc, ks] 
+[ah, 2c, 2s, 5c, 6s, 7h, 8s, 9s, 9c, th] 
+[3s, 3h, 4c, 5d, 6d, 7c, 9h, jc, ks] 
+[3s, 3h, 4c, 4h, 5d, 6d, 7c, 9h, jc, ks] 
+[ah, 2c, 2s, 5c, 6s, 7h, 8h, 9s, 9c, th] 
+[3h, 4c, 4h, 5d, 6d, 7c, 9h, jc, ks] 
+[as, 3h, 4c, 4h, 5d, 6d, 7c, 9h, jc, ks] 
+[2c, 2s, 5c, 6s, 7h, 8h, 9s, 9c, th, js] 
+[3h, 4c, 4h, 5d, 6d, 7c, 9h, jc, ks] 
+[3h, 4c, 4h, 5d, 5s, 6d, 7c, 9h, jc, ks] 
+[2c, 2s, 5c, 6s, 7h, 8h, 9s, 9c, th, kc] 
+[4c, 4h, 5d, 5s, 6d, 7c, 9h, jc, ks] 
+[4c, 4h, 5d, 5s, 6d, 7c, 9h, ts, jc, ks] 
+[2c, 2s, 5c, 6s, 7h, 8h, 8d, 9s, 9c, th] 
+[4h, 5d, 5s, 6d, 7c, 9h, ts, jc, ks] 
+[4h, 5d, 5s, 6d, 6c, 7c, 9h, ts, jc, ks] 
+[2c, 2s, 2h, 5c, 6s, 7h, 8h, 8d, 9s, 9c] 
+laying 2c
+laying 2s
+laying 2h
+[4h, 5d, 5s, 6d, 6c, 7c, 9h, ts, jc, ks] 
+[5c, 6s, 7h, 8h, 8d, 8c, 9s, 9c] 
+[5d, 5s, 6d, 6c, 7c, 9h, ts, jc, ks] 
+[5d, 5s, 6d, 6c, 7c, 9h, ts, jc, jh, ks] 
+laying 8h
+laying 8d
+laying 8c
+[3c, 6s, 7h, 9s, 9c] 
+[5s, 6d, 6c, 7c, 9h, ts, jc, jh, ks] 
+[ac, 5s, 6d, 6c, 7c, 9h, ts, jc, jh, ks] 
+[6s, 6h, 7h, 9s, 9c] 
+[5s, 6d, 6c, 7c, 9h, ts, jc, jh, ks] 
+[5s, 6d, 6c, 7c, 9h, ts, tc, jc, jh, ks] 
+[6s, 6h, 9s, 9c, kd] 
+[6d, 6c, 7c, 9h, ts, tc, jc, jh, ks] 
+[4s, 6d, 6c, 7c, 9h, ts, tc, jc, jh, ks] 
+[6s, 6h, 9s, 9c, 9d] 
+laying 9s
+laying 9c
+laying 9d
+[6d, 6c, 7c, 9h, ts, tc, td, jc, jh, ks] 
+[6s, 6h, 6d] 
+laying 6s
+laying 6h
+laying 6d
+-78
+-78
+Player 2 Wins!!!
+-78
+Player 1 Wins!!!
